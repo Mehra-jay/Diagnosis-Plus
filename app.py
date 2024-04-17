@@ -22,6 +22,8 @@ modelBTC= tf.keras.models.load_model('effnet.h5')
 
 modelpneumonia = tf.keras.models.load_model('pneumonia.h5')
 
+modelmalaria = tf.keras.models.load_model('malaria.h5')
+
 @app.route('/Liver Disease')
 def liver():
     return render_template("html/index.html")
@@ -41,6 +43,10 @@ def btc():
 @app.route('/pneumonia')
 def pneumonia():
     return render_template("html/index5.html")
+
+@app.route('/malaria')
+def malaria():
+    return render_template("html/index6.html")
 
 
 @app.route("/predict", methods=["POST"])
@@ -201,6 +207,40 @@ def predict4():
         os.remove(filename)
 
         return render_template('html/index5.html', prediction_text=prediction_result)    
+
+def detect_malaria(image_path):
+    img = tf.keras.utils.load_img(image_path,target_size=(150,150))
+    img = np.asarray(img) / 255.0
+    img = np.expand_dims(img, axis=0)
+
+    prediction = modelmalaria.predict(img)
+    if prediction[0][0] < 0.5:
+        return "Prediction: Malaria Infected"
+    else:
+        return "Prediction: No Malaria Detected"
+
+@app.route('/predict5', methods=['POST'])
+def predict5():
+    if 'file' not in request.files:
+        return render_template('index6.html', prediction_text='No file uploaded')
+
+    file = request.files['file']
+
+    if file.filename == '':
+        return render_template('index6.html', prediction_text='No file selected')
+
+    if file:
+        # Save the uploaded file to a temporary location
+        filename = 'temp_image.jpg'
+        file.save(filename)
+
+        # Perform malaria detection
+        prediction_result = detect_malaria(filename)
+
+        # Delete the temporary file
+        os.remove(filename)
+
+        return render_template('html/index6.html', prediction_text=prediction_result)
 
 if __name__ == "__main__":
     app.run(debug=True,port=8080)
