@@ -1,5 +1,7 @@
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template,jsonify
 from tensorflow.keras.preprocessing import image
+from flask import Flask, render_template, request, redirect, url_for, flash
+from werkzeug.security import generate_password_hash, check_password_hash
 import tensorflow as tf
 import joblib
 import sklearn
@@ -10,8 +12,15 @@ import pandas as pd
 import cv2
 import numpy as np
 from f import get_prediction
+import json
+
+users = json.load(open('user.json'))
+
+print(users)
 
 app = Flask(__name__, template_folder=".", static_folder="E:\Testing")
+app.secret_key = 'your_secret_key'
+
 model = joblib.load('Heart_Disease_Prediction.joblib')
 
 modelD = joblib.load('Diabetes_Prediction.joblib')
@@ -241,6 +250,64 @@ def predict5():
         os.remove(filename)
 
         return render_template('html/index6.html', prediction_text=prediction_result)
+
+
+users = {}
+
+# Routes
+@app.route('/')
+def index():
+    return render_template('html/log.html')
+
+@app.route('/login', methods=['POST'])
+def login():
+    users = json.load(open('user.json','r'))
+    # # Here, you would handle the login logic
+    # # For demonstration, let's assume a valid login
+    # return redirect(url_for('log'))
+
+    # Retrieve username and password from the form
+    username = request.form.get('username')
+    password = request.form.get('password')
+
+    # Check if the provided username exists and the password matches
+    if username in users and users[username]['password'] == password:
+        # Redirect to the desired page upon successful login
+        return redirect('/Liver Disease')  # Change the URL to your desired page
+    else:
+        flash("Invalid username or password!", 'error')
+        return redirect('/')
+
+
+@app.route('/signup', methods=['POST'])
+def signup():
+    users = dict(json.load(open('user.json','r')))
+    print(request.form.to_dict())
+    fullname = request.form.get('fullname')
+    email = request.form.get('email')
+    password = request.form.get('signup-password')
+    confirm_password = request.form.get('confirm-password')
+    # logging.info(email,fullname,password)
+    # Check if password and confirm_password match
+    if password != confirm_password:
+        flash("Passwords do not match!", 'error')
+        return redirect(url_for('log'))
+
+    # Check if email is already in use
+    if email in users.keys():
+        flash("Email already exists!", 'error')
+        return redirect('/')
+
+    # Hash the password before storing (for security)
+
+    # Store the user data in the database (in this case, a dictionary)
+    users[email] = {'fullname': fullname, 'password': password}
+    logging.info(users)
+    json.dump(users,open('user.json','w'))
+
+    flash("Signup successful!", 'success')
+    return redirect('/')
+
 
 if __name__ == "__main__":
     app.run(debug=True,port=8080)

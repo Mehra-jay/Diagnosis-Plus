@@ -1,0 +1,501 @@
+[23:40:51] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:40:51] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:40:51] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:40:51] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:40:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:40:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:40:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:41:00] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:41:00] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:41:00] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:41:00] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:41:00] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:41:00] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:41:00] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:00] "GET / HTTP/1.1" 200 -
+[23:41:00] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:00] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:41:00] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[23:41:17] {E:\testing\app.py:312} INFO - {'email@gmail.com': {'fullname': 'Jay ', 'password': '123'}}
+[23:41:17] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:17] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[23:41:17] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:17] "GET /Liver%20Disease HTTP/1.1" 200 -
+[23:41:17] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:17] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[23:41:50] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:41:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:41:59] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:41:59] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:41:59] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:41:59] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:41:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:41:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:41:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:59] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[23:41:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:59] "[36mGET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[23:41:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:59] "[36mGET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[23:41:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:41:59] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[23:42:06] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:42:07] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:42:15] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:42:16] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:42:16] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:42:16] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:42:16] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:42:16] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:42:22] {E:\testing\app.py:312} INFO - {'email@gmail.com': {'fullname': 'Jay ', 'password': '123'}}
+[23:42:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:42:22] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[23:42:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:42:22] "GET /Liver%20Disease HTTP/1.1" 200 -
+[23:42:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:42:22] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[23:42:38] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:42:39] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:42:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:42:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:42:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:42:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:42:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:42:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:42:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:43:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:43:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:43:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:43:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:43:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:43:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:43:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:43:01] "GET / HTTP/1.1" 200 -
+[23:43:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:43:01] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:43:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:43:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[23:43:13] {E:\testing\app.py:312} INFO - {'email@gmail.com': {'fullname': 'Jay ', 'password': '123'}}
+[23:43:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:43:13] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[23:43:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:43:13] "GET /Liver%20Disease HTTP/1.1" 200 -
+[23:43:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:43:13] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[23:43:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:43:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:43:36] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:43:36] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:43:36] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:43:37] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:43:37] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:43:37] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:44:12] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:44:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:44:20] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:44:20] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:44:20] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:44:21] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:44:21] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:44:21] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:44:46] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:44:47] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:44:55] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:44:55] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:44:55] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:44:55] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:44:55] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:44:55] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:44:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:45:11] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:45:11] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:45:11] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:45:11] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:45:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:45:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:45:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:45:19] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:45:19] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:45:19] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:45:19] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:45:19] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:45:19] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:45:20] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:45:20] "GET / HTTP/1.1" 200 -
+[23:45:20] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:45:20] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:45:20] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:45:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[23:45:28] {E:\testing\app.py:312} INFO - {'email@gmail.com': {'fullname': 'Jay ', 'password': '123'}}
+[23:45:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:45:28] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[23:45:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:45:28] "GET /Liver%20Disease HTTP/1.1" 200 -
+[23:45:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:45:28] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[23:45:44] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:45:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:45:52] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:46:07] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:46:08] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:46:08] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:46:08] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:46:08] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:46:08] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:46:08] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:46:15] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:46:15] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:46:15] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:46:16] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:46:16] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:46:16] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:46:16] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:46:16] "GET / HTTP/1.1" 200 -
+[23:46:16] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:46:16] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:46:16] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:46:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[23:46:28] {E:\testing\app.py:312} INFO - {'201112051@manit.ac.in': {'fullname': 'ww', 'password': '456'}}
+[23:46:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:46:28] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[23:46:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:46:28] "GET /Liver%20Disease HTTP/1.1" 200 -
+[23:46:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:46:28] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[23:47:20] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:47:21] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:47:29] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:29] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:29] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:47:29] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:29] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:47:29] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:47:32] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:47:33] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:47:40] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:40] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:40] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:47:41] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:47:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:47:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:47:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:47:53] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:47:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:47:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:47:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:48:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:48:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:48:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:48:01] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:48:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:48:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:48:01] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:48:01] "GET / HTTP/1.1" 200 -
+[23:48:02] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:48:02] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:48:02] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:48:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[23:48:09] {E:\testing\app.py:314} INFO - {'201112051@manit.ac.in': {'fullname': 'ww', 'password': '456'}, 'email@gmail.com': {'fullname': 'Jay ', 'password': '123'}}
+[23:48:09] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:48:09] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[23:48:09] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:48:09] "GET /Liver%20Disease HTTP/1.1" 200 -
+[23:48:09] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:48:09] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[23:48:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:48:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:49:34] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:49:35] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:49:35] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:49:35] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:49:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:49:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:49:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:49:41] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:49:42] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:49:42] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:49:42] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:49:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:49:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:49:44] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:49:44] "GET /?username=email@gmail.com&password=123 HTTP/1.1" 200 -
+[23:49:44] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:49:44] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:50:34] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:50:35] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:50:35] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:50:35] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:50:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:50:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:50:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:50:43] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:50:43] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:50:43] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:50:43] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:43] "GET /?username=email@gmail.com&password=123 HTTP/1.1" 200 -
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:43] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:43] "GET /?username=email@gmail.com&password=123 HTTP/1.1" 200 -
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:43] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:50:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[23:50:47] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:47] "GET / HTTP/1.1" 200 -
+[23:50:47] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:47] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:50:55] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+[23:50:55] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:55] "GET /Liver%20Disease HTTP/1.1" 200 -
+[23:50:55] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:50:55] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[23:51:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:14] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+[23:51:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:14] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[23:51:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:14] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[23:51:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:14] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[23:51:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:14] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[23:51:34] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[23:51:34] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:51:42] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:51:42] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:51:42] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:51:42] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:51:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:51:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:51:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:45] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+[23:51:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[23:51:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[23:51:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[23:51:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:51:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[23:52:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:05] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+[23:52:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[23:52:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[23:52:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[23:52:27] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:52:28] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:52:28] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:52:28] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:52:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[23:52:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[23:52:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[23:52:33] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:52:33] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:52:33] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[23:52:33] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[23:52:33] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[23:52:33] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[23:52:46] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+[23:52:46] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:46] "GET / HTTP/1.1" 200 -
+[23:52:46] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:46] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:52:54] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+[23:52:54] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:54] "GET / HTTP/1.1" 200 -
+[23:52:54] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:52:54] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[23:54:40] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:40] "GET / HTTP/1.1" 200 -
+[23:54:40] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:40] "[33mGET /css/style3.css HTTP/1.1[0m" 404 -
+[23:54:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:41] "GET / HTTP/1.1" 200 -
+[23:54:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:41] "[33mGET /css/style3.css HTTP/1.1[0m" 404 -
+[23:54:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:42] "GET / HTTP/1.1" 200 -
+[23:54:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:42] "[33mGET /css/style3.css HTTP/1.1[0m" 404 -
+[23:54:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:42] "GET / HTTP/1.1" 200 -
+[23:54:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:54:42] "[33mGET /css/style3.css HTTP/1.1[0m" 404 -
+[23:55:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:55:22] "GET / HTTP/1.1" 200 -
+[23:55:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:55:22] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[23:55:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:55:23] "GET / HTTP/1.1" 200 -
+[23:55:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:55:23] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[23:57:12] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:12] "GET / HTTP/1.1" 200 -
+[23:57:12] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:12] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[23:57:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:14] "GET / HTTP/1.1" 200 -
+[23:57:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:14] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[23:57:15] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:15] "GET / HTTP/1.1" 200 -
+[23:57:15] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:15] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[23:57:40] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:40] "GET / HTTP/1.1" 200 -
+[23:57:40] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:40] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[23:57:58] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:58] "GET / HTTP/1.1" 200 -
+[23:57:58] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [21/Apr/2024 23:57:58] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:02:38] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:02:38] "GET / HTTP/1.1" 200 -
+[00:02:38] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:02:38] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:02:38] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:02:38] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[00:02:40] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:02:40] "GET / HTTP/1.1" 200 -
+[00:02:40] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:02:40] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[00:02:40] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:02:40] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:03:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:05] "GET / HTTP/1.1" 200 -
+[00:03:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:05] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:03:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:05] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:03:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:11] "GET / HTTP/1.1" 200 -
+[00:03:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:11] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:03:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:11] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:03:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:57] "GET / HTTP/1.1" 200 -
+[00:03:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:57] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:03:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:57] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:03:58] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:58] "GET / HTTP/1.1" 200 -
+[00:03:58] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:58] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:03:58] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:03:58] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:04:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:04:24] "GET / HTTP/1.1" 200 -
+[00:04:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:04:24] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:11:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:11:53] "GET / HTTP/1.1" 200 -
+[00:11:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:11:53] "[33mGET /html/script.js HTTP/1.1[0m" 404 -
+[00:11:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:11:53] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:13:03] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:13:03] "GET / HTTP/1.1" 200 -
+[00:13:03] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:13:03] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:15:31] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:15:31] "GET / HTTP/1.1" 200 -
+[00:15:31] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:15:31] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:15:31] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:15:31] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:17:08] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:17:08] "GET / HTTP/1.1" 200 -
+[00:17:08] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:17:08] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:20] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:20] "GET / HTTP/1.1" 200 -
+[00:18:20] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:20] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:18:21] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:21] "GET / HTTP/1.1" 200 -
+[00:18:21] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:21] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:22] "GET / HTTP/1.1" 200 -
+[00:18:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:22] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:22] "GET / HTTP/1.1" 200 -
+[00:18:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:22] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:22] "GET / HTTP/1.1" 200 -
+[00:18:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:22] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:23] "GET / HTTP/1.1" 200 -
+[00:18:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:23] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:23] "GET / HTTP/1.1" 200 -
+[00:18:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:23] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:23] "GET / HTTP/1.1" 200 -
+[00:18:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:23] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:34] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:34] "GET / HTTP/1.1" 200 -
+[00:18:34] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:34] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:18:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:35] "GET / HTTP/1.1" 200 -
+[00:18:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:35] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:35] "GET / HTTP/1.1" 200 -
+[00:18:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:35] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:35] "GET / HTTP/1.1" 200 -
+[00:18:35] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:35] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:59] "GET / HTTP/1.1" 200 -
+[00:18:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:59] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:18:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:18:59] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:19:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:19:23] "GET / HTTP/1.1" 200 -
+[00:19:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:19:23] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:19:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:19:23] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:21:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:13] "GET / HTTP/1.1" 200 -
+[00:21:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:13] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:21:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:14] "GET / HTTP/1.1" 200 -
+[00:21:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:14] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:21:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:14] "GET / HTTP/1.1" 200 -
+[00:21:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:14] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:21:15] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:15] "GET / HTTP/1.1" 200 -
+[00:21:15] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:15] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:21:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:43] "GET / HTTP/1.1" 200 -
+[00:21:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[00:21:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:43] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:21:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:45] "GET / HTTP/1.1" 200 -
+[00:21:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[00:21:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:21:45] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:22:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:11] "GET / HTTP/1.1" 200 -
+[00:22:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:11] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:22:11] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:11] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:22:39] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:39] "GET / HTTP/1.1" 200 -
+[00:22:39] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:39] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:22:39] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:39] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:22:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:41] "GET / HTTP/1.1" 200 -
+[00:22:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:41] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:22:41] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:41] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:22:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:42] "GET / HTTP/1.1" 200 -
+[00:22:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:42] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:22:42] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:42] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:22:49] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:49] "GET / HTTP/1.1" 200 -
+[00:22:49] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:49] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:22:49] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:49] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:22:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:22:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[00:23:12] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:23:12] "GET / HTTP/1.1" 200 -
+[00:23:12] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:23:12] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:23:12] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:23:12] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:23:14] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:23:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[00:26:33] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:26:33] "GET / HTTP/1.1" 200 -
+[00:26:33] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:26:33] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:26:33] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:26:33] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:28:30] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:28:30] "GET / HTTP/1.1" 200 -
+[00:28:30] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:28:30] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:28:30] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:28:30] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:28:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:28:57] "GET / HTTP/1.1" 200 -
+[00:28:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:28:57] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:28:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:28:57] "[33mGET /html/script.js HTTP/1.1[0m" 404 -
+[00:30:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:30:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+[00:30:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:30:28] "GET /Liver%20Disease HTTP/1.1" 200 -
+[00:30:28] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:30:28] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:30:37] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:30:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+[00:30:37] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:30:37] "GET /Liver%20Disease HTTP/1.1" 200 -
+[00:30:37] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:30:37] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:31:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:31:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+[00:31:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:31:05] "GET /Liver%20Disease HTTP/1.1" 200 -
+[00:31:05] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:31:05] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:31:48] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:31:48] "GET / HTTP/1.1" 200 -
+[00:31:48] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:31:48] "[33mGET /html/script.js HTTP/1.1[0m" 404 -
+[00:31:48] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:31:48] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:36:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:36:51] "GET / HTTP/1.1" 200 -
+[00:36:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:36:51] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:36:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:36:51] "[33mGET /html/script.js HTTP/1.1[0m" 404 -
+[00:38:27] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:27] "GET / HTTP/1.1" 200 -
+[00:38:27] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[00:38:27] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:27] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:38:47] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:47] "GET / HTTP/1.1" 200 -
+[00:38:47] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:47] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:38:47] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:47] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:38:50] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:50] "GET / HTTP/1.1" 200 -
+[00:38:50] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:50] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:38:50] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:50] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:38:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:57] "GET / HTTP/1.1" 200 -
+[00:38:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:57] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:38:57] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:38:57] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:39:04] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:39:04] "GET / HTTP/1.1" 200 -
+[00:39:04] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:39:04] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:39:04] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:39:04] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[00:39:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:39:59] "GET / HTTP/1.1" 200 -
+[00:39:59] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:39:59] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:40:52] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:40:52] "GET / HTTP/1.1" 200 -
+[00:40:52] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:40:52] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:41:24] {E:\testing\app.py:314} INFO - {'201112051@manit.ac.in': {'fullname': 'ww', 'password': '456'}, 'email@gmail.com': {'fullname': 'Jay ', 'password': '123'}, 'mihir@gamil.com': {'fullname': 'Mihir', 'password': '6969'}}
+[00:41:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:41:24] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[00:41:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:41:24] "GET /Liver%20Disease HTTP/1.1" 200 -
+[00:41:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:41:24] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:44:22] {E:\testing\app.py:314} INFO - {'201112051@manit.ac.in': {'fullname': 'ww', 'password': '456'}, 'email@gmail.com': {'fullname': 'Jay ', 'password': '123'}, 'mihir@gamil.com': {'fullname': 'Mihir', 'password': '6969'}, 'mihir@gmail.com': {'fullname': 'Mihir', 'password': '12345'}}
+[00:44:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:44:22] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[00:44:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:44:22] "GET /Liver%20Disease HTTP/1.1" 200 -
+[00:44:22] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:44:22] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:45:50] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[00:45:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[00:46:11] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:46:12] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:46:12] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[00:46:13] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:46:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[00:46:13] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[00:46:53] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[00:46:54] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[00:47:03] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:47:04] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:47:04] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[00:47:04] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:47:04] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[00:47:04] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[00:47:29] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:47:29] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[00:47:29] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:47:29] "GET / HTTP/1.1" 200 -
+[00:47:29] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:47:29] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:47:44] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:47:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+[00:47:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:47:45] "GET /Liver%20Disease HTTP/1.1" 200 -
+[00:47:45] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:47:45] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:48:06] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:06] "GET / HTTP/1.1" 200 -
+[00:48:06] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:06] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:48:08] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:08] "GET / HTTP/1.1" 200 -
+[00:48:08] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:08] "GET /Testing/css/style3.css HTTP/1.1" 200 -
+[00:48:09] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[00:48:31] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:31] "[32mPOST /signup HTTP/1.1[0m" 302 -
+[00:48:31] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:31] "GET / HTTP/1.1" 200 -
+[00:48:31] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:48:31] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:49:46] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:49:46] "GET / HTTP/1.1" 200 -
+[00:49:46] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:49:46] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:51:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:51:43] "GET / HTTP/1.1" 200 -
+[00:51:43] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:51:43] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:52:06] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:06] "GET / HTTP/1.1" 200 -
+[00:52:07] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:07] "[36mGET /Testing/css/style3.css HTTP/1.1[0m" 304 -
+[00:52:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+[00:52:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:24] "GET /Liver%20Disease HTTP/1.1" 200 -
+[00:52:24] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:24] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:52:27] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:27] "GET /Heart%20Disease HTTP/1.1" 200 -
+[00:52:27] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:27] "[36mGET /Testing/css/style.css HTTP/1.1[0m" 304 -
+[00:52:29] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:29] "GET /BTCMRI HTTP/1.1" 200 -
+[00:52:29] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - 127.0.0.1 - - [22/Apr/2024 00:52:29] "[36mGET /Testing/css/style2.css HTTP/1.1[0m" 304 -
+[00:53:16] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:17] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:17] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[00:53:17] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:17] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[00:53:17] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[00:53:17] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[00:53:22] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:23] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:23] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[00:53:23] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[00:53:23] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[00:53:54] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:54] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:54] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[00:53:54] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:54] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[00:53:54] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO - [33mPress CTRL+C to quit[0m
+[00:53:54] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
+[00:53:59] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:59] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:53:59] {C:\Python310\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py:184} WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[00:54:00] {C:\Python310\lib\site-packages\keras\src\legacy\saving\saving_utils.py:256} WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[00:54:00] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} WARNING -  * Debugger is active!
+[00:54:00] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Debugger PIN: 901-039-439
+[00:54:51] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Detected change in 'E:\\testing\\app.py', reloading
+[00:54:52] {C:\Python310\lib\site-packages\werkzeug\_internal.py:96} INFO -  * Restarting with stat
